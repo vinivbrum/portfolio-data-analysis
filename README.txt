@@ -1,45 +1,17 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hi, I'm Vinicius. I'm 26 years old, I live in Brazil, and I'm a Junior Data Analyst now.
+With 3 years of experience in digital marketing, I worked buying midia, using data driven strategy and analysing the data from Facebook Ads and Google Ads.
 
+I have experience with companies in the healthcare area, and customer acquisition in a b2c business
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+From the past, I use to be a Dentist in Brazil.
 
-- It's built with components from my Responsive Tools project.
+In 2019, I stated buying midia in Facebook Ads for a few dental officers in my city as a Freelancer.
+From the last 6 moths I started to use data analysis in digital marketing, using insights to do a data driven strategy to buy midia.
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+Since then, I have continued to improve my knowledge in the analysis area and consulting.
+Now, I'm improving my hard skills in Power Bi, Google Data Studio, SQL and Python.
+For my softs skills I'm working in analytic thinking, problem-solving and storytelling
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+At the moment I'm looking for positions where I can develop my analytical skills and work in a squaq.
+With my knowledge in analytics I can develop models and dashboards for customer acquisition, sales, digital marketing and related areas.
+At now, I'm focussing in ecommerce and financial fraud areas in my analysis.
