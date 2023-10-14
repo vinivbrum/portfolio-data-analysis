@@ -1,4 +1,4 @@
-Hi, I'm Vinicius. I'm 26 years old, I live in Brazil, and I'm a Junior Data Analyst now.
+Hi, I'm Vinicius. I'm 28 years old, I live in Brazil, and I'm a Data Analyst now.
 With 3 years of experience in digital marketing, I worked buying midia, using data driven strategy and analysing the data from Facebook Ads and Google Ads.
 
 I have experience with companies in the healthcare area, and customer acquisition in a b2c business
